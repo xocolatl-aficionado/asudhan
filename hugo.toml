@@ -49,14 +49,6 @@ url = "/"
 name = "posts"
 url = "/posts"
 
-[[params.menu]]
-name = "projects"
-url = "/projects"
-
-[[params.menu]]
-name = "about"
-url = "/about"
-
 # Syntax highligth on code blocks
 [markup]
 [markup.highlight]
