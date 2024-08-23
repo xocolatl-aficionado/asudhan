@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Adithya Sudhan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 22:21:06 +0400</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post2</title>
+      <link>https://example.org/posts/post2/</link>
+      <pubDate>Thu, 22 Aug 2024 22:21:06 +0400</pubDate>
+      <guid>https://example.org/posts/post2/</guid>
+      <description>My Post Title Here is an image included in the post: Example Image Here is some more content about the post.</description>
+    </item>
   </channel>
 </rss>
