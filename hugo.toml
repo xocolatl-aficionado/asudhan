@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Work outside of work'
+title = 'Adithya Sudhan'
 theme = 'typo'
 
 [taxonomies]
@@ -8,7 +8,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "Work outside of work"
+description = "Adithya Sudhan"
 
 # Appearance settings
 theme = 'auto'
@@ -18,13 +18,10 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am a Cloud Engineer focussed on how to design microservices and their associated infrastructure deployments.
-With certfications in AWS, production experience in Azure and personal work on GCP, I am interested in leveraging a multi-cloud strategy to build fault tolerant and highly available applications. 
+I'm a Cloud Engineer focused on keeping microservices reliably deployed, and antifragile.
+With certifications in **AWS**, production experience in **Azure** and personal work on **GCP**, I've found myself curious about the strengths and weaknesses of various clouds, and how a growing company tackles the trade-off between owning their own cloud vs renting another. Particularly, I'm fascinated by how ubiquitous open source tools like **Kubernetes** and **Terraform**, coupled with paradigms like **C**ontinuous **I**ntegration and standards like **Y**et **A**nother **M**arkup **L**anguage, have transformed the way applications are built, tested and deployed, dramatically reducing production delivery times. 
 """
 
-# Collection to display on home
-homeCollectionTitle = 'Posts'
-homeCollection = 'posts'
 
 # Lists parameters
 paginationSize = 100
@@ -51,6 +48,10 @@ url = "/"
 [[params.menu]]
 name = "posts"
 url = "/posts"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
 
 [[params.menu]]
 name = "about"
