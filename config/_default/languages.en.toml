@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Portfolio"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+description = "My portfolio website"
+dateFormat = "2 January 2006"
+logo = "noun-jack-o-lantern-80432.png"
+secondaryLogo = "noun-jack-o-lantern-80432.png"
+
+[params.author]
+name = "Adithya Sudhan"
+image = "img/avatar.png"
+headline = "A collection of thoughts, ideas and projects"
+bio = "Software engineer focused on AI, Cloud and DevOps"
+links = [
+    { linkedin = "https://www.linkedin.com/in/adithyasudhan/" },
+    { github = "https://github.com/xocolatl-aficionado/" }
+]
