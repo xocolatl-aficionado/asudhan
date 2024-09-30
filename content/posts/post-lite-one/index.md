@@ -2,10 +2,10 @@
 title: "Have Atlantic ocean waves grown taller?"
 summary: "Data analysis on ocean and wind data"
 categories: ["Post","Blog",]
-tags: ["post","lorem","ipsum"]
+tags: ["data"]
 #externalUrl: ""
 #showSummary: true
-date: 2022-09-04
+date: 2024-09-15
 draft: false
 ---
 
