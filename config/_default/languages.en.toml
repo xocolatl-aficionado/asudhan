@@ -7,10 +7,10 @@ title = "Portfolio"
 displayName = "EN"
 isoCode = "en"
 rtl = false
-description = "My portfolio website"
+description = "A collection of thoughts, ideas and projects"
 dateFormat = "2 January 2006"
-logo = "noun-jack-o-lantern-80432.png"
-secondaryLogo = "noun-jack-o-lantern-80432.png"
+logo = "/img/avatar.png"
+secondaryLogo = "/img/avatar.png"
 
 [params.author]
 name = "Adithya Sudhan"
